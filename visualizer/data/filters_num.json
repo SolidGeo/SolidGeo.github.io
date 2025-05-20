@@ -1,0 +1,36 @@
+{
+    "question_type": [
+        "All",
+        "single_step",
+        "multi_step",
+        "choice"
+    ],
+    "source": [
+        "All",
+        "solidgeo",
+        "OlympiadBench",
+        "MathVerse",
+        "cmm_math",
+        "MathVision",
+        "DynaMath",
+        "GeoEval",
+        "MathVista"
+    ],
+    "complexity": [
+        "All",
+        "Level 1",
+        "Level 2",
+        "Level 3"
+    ],
+    "problem_type": [
+        "All",
+        "Measurement of Solid Geometric Forms",
+        "Solid Shape Identification",
+        "Spatial Metric Relations",
+        "Multi-view Projection",
+        "Planar Unfolding and Configuration",
+        "Composite Solid Structures",
+        "3D Coordinate and Vector Reasoning",
+        "Solid Geometry Modeling"
+    ]
+}
